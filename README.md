@@ -1,1 +1,1 @@
-# sample
+# Superstore capstone project
